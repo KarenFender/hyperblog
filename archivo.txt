@@ -1,0 +1,3 @@
+Este es un curso que estoy tomando en platzi para volverme una experta usando git
+
+Lo voy a usar en el trabajo y se que me servirá para siempre
