@@ -10,5 +10,6 @@ Un blog para el manejo de git
 - El verdadero amor por las buenas practicas.
 - Trucos muy locos del profesor
 - Creado por el increible Platzi team 
+- Incluye ejemplo en Windows, Linux y MAC
 
 Este README.md es totalmente para un ejemplo.
