@@ -9,5 +9,6 @@ Un blog para el manejo de git
 - El flujo de trabajo de github 
 - El verdadero amor por las buenas practicas.
 - Trucos muy locos del profesor
+- Creado por el increible Platzi team 
 
 Este README.md es totalmente para un ejemplo.
